@@ -56,10 +56,10 @@ R-Squared value: We expect this to be close to 1. The value is very low(0.00005)
 We evaluated our model by selecting the most appropriate metrics. Which
 performance did you reach?
 
-R-Squared	Root Mean Square Error
-Simple Linear Regression	0.000144	133584.603849
-Multiple Linear Regression	0.526711	91407.212271
-Random Forest Regressor	0.927738	74786.184576
+####                              R-Squared	    Root Mean Square Error
+#### Simple Linear Regression	    0.000144	    133584.603849
+#### Multiple Linear Regression	  0.526711	    91407.212271
+#### Random Forest Regressor	    0.927738	    74786.184576
 
 #### Note: Random Forest Regressor has the best performance given it has the lowest RMSE. RMSE  compares the difference between the actual price values in the test set and the predicted price values by our model.
 
