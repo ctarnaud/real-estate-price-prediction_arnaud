@@ -63,7 +63,7 @@ Random Forest Regressor	0.927738	74786.184576
 
 #### Note: Random Forest Regressor has the best performance given it has the lowest RMSE. RMSE  compares the difference between the actual price values in the test set and the predicted price values by our model.
 
-###How could you improve this result?
+### How could you improve this result?
 This results could be improved by adding more features(explanatory variables) and also adding more data for the model to train on. This could help explain more of the variability of housing price.
 
 ## Which part of the process has the most impact on the results?
