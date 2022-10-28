@@ -1,0 +1,72 @@
+
+# 2: provinceCode (ISO 3166-3:BE)
+# https://en.wikipedia.org/wiki/ISO_3166-2:BE#Provinces
+
+provinceCode = {
+'VAN': 'Antwerp',
+'VOV': 'East Flanders',
+'VBR': 'Flemish Brabant',
+'VLI': 'Limburg',
+'VWV': 'West Flanders',
+'WHT': 'Hainaut',
+'WLG': 'Liège',
+'WNA': 'Namur',
+'WLX': 'Luxembourg',
+'WBR': 'Walloon Brabant',
+'BBR': 'Brussels'
+}
+
+# 5: propertyType
+
+propertyType = {
+1: 'HOUSE',
+2: 'APARTMENT',
+3: 'HOUSE,APARTMENT',
+4: 'HOUSE_GROUP',
+5: 'APARTMENT_GROUP',
+6: 'GARAGE',
+7: 'OFFICE',
+8: 'COMMERCIAL',
+9: 'INDUSTRY',
+10: 'LAND',
+11: 'TENEMENT_BUILDING',
+12: 'OTHER'
+}
+
+# 6: propertySubtype
+
+propertySubtype = {
+1: 'BUNGALOW',
+2: 'CHALET',
+3: 'CASTLE',
+4: 'FARMHOUSE',
+5: 'COUNTRY_COTTAGE',
+6: 'EXCEPTIONAL_PROPERTY',
+7: 'APARTMENT_BLOCK',
+8: 'MIXED_USE_BUILDING',
+9: 'TOWN_HOUSE',
+10: 'MANSION',
+11: 'VILLA',
+12: 'OTHER_PROPERTY',
+13: 'MANOR_HOUSE',
+14: 'PAVILION',
+15: 'GROUND_FLOOR',
+16: 'DUPLEX',
+17: 'TRIPLEX',
+18: 'FLAT_STUDIO',
+19: 'PENTHOUSE',
+20: 'LOFT',
+21: 'KOT',
+22: 'SERVICE_FLAT'
+}
+
+# 7: buildingCondition
+
+buildingCondition = {
+1: 'GOOD',
+2: 'AS_NEW',
+3: 'TO_RESTORE',
+4: 'JUST_RENOVATED',
+5: 'TO_BE_DONE_UP',
+6: 'TO_RENOVATE'
+}
